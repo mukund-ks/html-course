@@ -1,2 +1,2 @@
 # html-course
-Just learning HITML and GIT!
+Just learning HTML and GIT!
