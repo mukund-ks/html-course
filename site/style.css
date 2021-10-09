@@ -46,3 +46,7 @@ ol #kawaii {
 a {
     text-align: center;
 }
+
+div p{
+    float: right;
+}
